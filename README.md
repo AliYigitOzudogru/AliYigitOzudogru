@@ -20,7 +20,7 @@
 
 
 
-Skills: Python/ C++/ Keras / Tensorflow / Numpy / Pandas / Scikit-learn / Robot Operation System 
+Skills: Python/ C++/ Keras / Tensorflow / Numpy / Pandas / Scikit-learn / Robot Operation System (ROS) / Nav2 / Gazebo / Rviz
 
 ## &#x1f4c8; Best GitHub Projects
 
