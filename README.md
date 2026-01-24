@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! My Name Is Ali Yiğit Özüdoğru 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Ali+Yiğit+Özüdoğru;CS+Student+@+Dokuz+Eylül+University;Robotics+%26+Artificial+Intelligence;Deep+Learning+%7C+Computer+Vision;ROS+%7C+Autonomous+Systems&font=Fira%20Code&center=true&width=550&height=80&color=2bbc8a&vCenter=true&pause=800&size=22&duration=3000&multiline=false)](https://github.com/DenverCoder1/readme-typing-svg)
 
