@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Ali Yigit Ozudogru
+# Hi there! 👋
 
-![I am a software developer and artificial intelligence enthusiast](./alibanner.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Ali+Yiğit+Özüdoğru;CS+Student+@+Dokuz+Eylül+University;Robotics+%26+Artificial+Intelligence;Deep+Learning+%7C+Computer+Vision;ROS+%7C+Autonomous+Systems&font=Fira%20Code&center=true&width=550&height=80&color=2bbc8a&vCenter=true&pause=800&size=22&duration=3000&multiline=false)](https://github.com/DenverCoder1/readme-typing-svg)
+
 ### Languages
-
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
@@ -11,31 +11,21 @@
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-
-
-
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-
-
-Skills: Python/ C++/ Keras / Tensorflow / Numpy / Pandas / Scikit-learn / Robot Operation System (ROS) / Nav2 / Gazebo / Rviz
+**Skills:** Python / C++ / Keras / Tensorflow / Numpy / Pandas / Scikit-learn / Robot Operation System (ROS) / Nav2 / Gazebo / Rviz
 
 ## &#x1f4c8; Best GitHub Projects
 
-<a href="https://github.com/AliYigitOzudogru/Detecting-BrainTumor-with-DeepLearning
-">
+<a href="https://github.com/AliYigitOzudogru/Detecting-BrainTumor-with-DeepLearning">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AliYigitOzudogru&repo=Detecting-BrainTumor-with-DeepLearning&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
-<a href="https://github.com/AliYigitOzudogru/breastcancerknn
-">
+<a href="https://github.com/AliYigitOzudogru/breastcancerknn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AliYigitOzudogru&repo=breastcancerknn&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/AliYigitOzudogru/TrashEstimater
-">
+<a href="https://github.com/AliYigitOzudogru/TrashEstimater">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AliYigitOzudogru&repo=TrashEstimater&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
