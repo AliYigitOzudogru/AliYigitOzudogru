@@ -42,6 +42,14 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AliYigitOzudogru&repo=TrashEstimater&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/AliYigitOzudogru/TUI-Based-Excel-Program">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AliYigitOzudogru&repo=TUI-Based-Excel-Program&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/AliYigitOzudogru/NASA-Space-App-Challenge">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AliYigitOzudogru&repo=NASA-Space-App-Challenge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 ---
 
 ## 📊 GitHub Stats
