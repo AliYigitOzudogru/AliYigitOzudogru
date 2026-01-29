@@ -46,6 +46,12 @@
 
 ---
 
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AliYigitOzudogru&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=2bbc8a&line=2bbc8a&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ### 💬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliyigitozudogru/)
