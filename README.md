@@ -1,5 +1,7 @@
 # Hi there! My Name Is Ali Yiğit Özüdoğru 👋
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Ali+Yiğit+Özüdoğru;CS+Student+@+Dokuz+Eylül+University;Robotics+%26+Artificial+Intelligence;Deep+Learning+%7C+Computer+Vision;ROS+%7C+Autonomous+Systems&font=Fira%20Code&center=true&width=550&height=80&color=2bbc8a&vCenter=true&pause=800&size=22&duration=3000&multiline=false)](https://github.com/DenverCoder1/readme-typing-svg)
 
 ---
@@ -32,29 +34,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliYigitOzudogru&theme=github_dark" alt="Profile Details"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliYigitOzudogru&theme=github_dark" alt="Profile Details"/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliYigitOzudogru&theme=github_dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AliYigitOzudogru&theme=github_dark" alt="Productive Time" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliYigitOzudogru&theme=github_dark" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AliYigitOzudogru&theme=github_dark" alt="Productive Time" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliYigitOzudogru&theme=github_dark" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliYigitOzudogru&theme=github_dark" alt="Most Commit Language" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliYigitOzudogru&theme=github_dark" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliYigitOzudogru&theme=github_dark" alt="Most Commit Language" />
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/2bbc8a/AliYigitOzudogru" alt="GitHub Contribution Heatmap"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AliYigitOzudogru&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=2bbc8a&line=2bbc8a&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/AliYigitOzudogru/AliYigitOzudogru/output/github-snake-dark.svg" alt="Snake animation" />
 
 ---
 
@@ -66,6 +54,8 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=AliYigitOzudogru&color=2bbc8a&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=AliYigitOzudogru&color=2bbc8a&style=for-the-badge" alt="Profile Views"/>
 
 **"Innovation distinguishes between a leader and a follower."** - Steve Jobs
+
+</div>
